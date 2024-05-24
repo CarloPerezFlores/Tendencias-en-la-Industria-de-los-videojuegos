@@ -1,5 +1,6 @@
 # Tendencias-en-la-Industria-de-los-videojuegos
-Introducción
+
+## Introducción
 En la venta de videojuegos en linea, comprender y prever el éxito de un juego determina el éxito comercial. Como parte del equipo de análisis de la tienda, se busca identificar patrones que determinen el éxito. desarrollar un modelo predictivo que pueda discernir qué características y factores contribuyen al éxito de un juego en el mercado.
 
 Este proyecto se centra en examinar y analizar datos vinculados a la industria de los videojuegos utilizando técnicas de ciencia de datos. Dada la naturaleza dinámica del mercado de los videojuegos, caracterizado por cambios en las preferencias de los jugadores, avances tecnológicos y una competencia intensa entre diversas plataformas y géneros, nuestro objetivo es entender las tendencias que impulsan el éxito de los juegos y cómo factores como la región, las calificaciones y las plataformas influyen en las ventas y la percepción de los juegos.
